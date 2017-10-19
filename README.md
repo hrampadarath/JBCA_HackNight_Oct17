@@ -53,8 +53,11 @@ In the folder movies, you will find:
 2. A short tutorial introducing the data, with some simple data pre processing and a very simple model 'Simple_Movie_Recommender.ipynb
 
 
-### Challenge 3:
-TBA
+### Challenge 3: NLP
+
+This natural langauge processing (NLP) challenge uses a web scraping library to collect articles from the interenet, before attempting to categorise those articles using unsupervised clustering techniques. 
+
+The challenge is open ended: once you are happy with the tools used, we would like to see what you can use NLP to show about content you find on the web.
 
 ## Helpful tools
 
