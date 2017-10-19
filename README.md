@@ -61,7 +61,8 @@ TBA
 [Pandas](https://pandas.pydata.org/) - data handling & data analysis for Python
 
 [Matplotlib](http://matplotlib.org/) - a Python library for 2D data plotting
-[Beautifulsoup] (https://www.crummy.com/software/BeautifulSoup/) - Python library for webscraping
+
+[Beautifulsoup](https://www.crummy.com/software/BeautifulSoup/) - Python library for webscraping
 
 [Seaborn](https://seaborn.pydata.org/) - a Python library for visualizing statistical data - based on maptlotlib
 
